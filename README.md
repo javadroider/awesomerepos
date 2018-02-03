@@ -6,4 +6,4 @@
 
 # Design Patterns
 
-[https://github.com/javadroider/system-design-primer] (System design Primer)
+[System design Primer] (https://github.com/javadroider/system-design-primer)
