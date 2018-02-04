@@ -57,9 +57,23 @@ https://github.com/javadroider/AADHAR-Dataset-Analysis
 # Java
 - [ Demonstrates Java 9's new features ](https://github.com/javadroider/demo-java-9)
 - [ Java Cheat Sheet ](https://github.com/javadroider/java-cheat-sheet)
-- [  ]()
+- [ Awesome Interview Questions ](https://github.com/javadroider/awesome-interview-questions)
 - [  ]()
 
 # Micro Services
 - [ Micro Services part 1 ](https://github.com/javadroider/stock-price-viewer-microservices-part1)
  
+# Spring
+- [ Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP ](https://github.com/javadroider/registration-login-spring-hsql)
+- [ Spring Career Path ](https://github.com/javadroider/spring-complete-career-path)
+- [  ]()
+- [  ]()
+- [  ]()
+
+# Miscellaneos
+- [ vaquarkhan ](https://github.com/javadroider/vaquarkhan)
+- [ Curated list of awesome lists ](https://github.com/javadroider/awesome)
+- [ A curated list of awesome remote jobs and resources ](https://github.com/javadroider/awesome-remote-job)
+- [  ]()
+
+
