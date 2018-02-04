@@ -49,7 +49,7 @@ https://github.com/javadroider/AADHAR-Dataset-Analysis
 # Design Patterns
 - [ Examples of Design Patterns in Java ](https://github.com/javadroider/DesignPatterns)
 - [ Collection of Java Design Patterns ](https://github.com/javadroider/java-design-patterns)
-- [ Design patterns implemented in Java ] (https://github.com/javadroider/java-design-patterns-1)
+- [ Design patterns implemented in Java ](https://github.com/javadroider/java-design-patterns-1)
 - [ GoF Design Patterns, each pattern described with story from real life ](https://github.com/javadroider/100-words-design-patterns-java)
 - [  ]()
 
