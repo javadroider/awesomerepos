@@ -62,6 +62,7 @@ https://github.com/javadroider/AADHAR-Dataset-Analysis
 
 # Micro Services
 - [ Micro Services part 1 ](https://github.com/javadroider/stock-price-viewer-microservices-part1)
+- [ A curated list of Microservice resources ](https://github.com/javadroider/awesome-microservice)
  
 # Spring
 - [ Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP ](https://github.com/javadroider/registration-login-spring-hsql)
