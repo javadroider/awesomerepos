@@ -3,6 +3,9 @@
 - [ Vehicle Year, Make, and Model data in SQL, NoSQL data format since year 2001 ](https://github.com/javadroider/vehicle-make-model-data)
 - [ Chicago Crime Data Analysis ](https://github.com/javadroider/Chicago-Crime-Data-Analysis)
 - [ Aadhar Dataset Analysis ](https://github.com/javadroider/AADHAR-Dataset-Analysis)
+- [ eBay Online Auctions ](http://www.modelingonlineauctions.com/datasets)
+- [ SFPD Crime Incident Reporting system ](https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry)
+
 
 # Apache Spark
 - [ James Lee's Aparch Spark with Java course ](https://github.com/javadroider/sparkTutorial)
@@ -21,6 +24,7 @@
 - [ Udemy SparkS cala ](https://github.com/javadroider/UdemySparkScala)
 - [ Learning to write Spark examples ](https://github.com/javadroider/learning-spark-1)
 - [ Spark Data Frame Example ](https://github.com/javadroider/sparkdataframeexample)
+- [ Introduction to DataFrames ](https://mapr.com/blog/using-apache-spark-dataframes-processing-tabular-data/)
 
 # Machine Learning
 - [ Awesome Machine Learning ](https://github.com/javadroider/awesome-machine-learning)
