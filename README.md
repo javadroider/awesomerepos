@@ -29,6 +29,7 @@
 - [ Spark Course ](https://github.com/javadroider/spark-course)
 - [ Twitter sentiment Analysis ](https://github.com/javadroider/SparkTwitterStreamAnalysis)
 - [ Quora - Twitter sentiment Analysis ](https://www.quora.com/Has-anyone-done-a-Twitter-sentiment-analysis-using-Apache-Spark)
+- [ Twitter Sentiment Analysis ](https://github.com/javadroider/twitter-sentiment-analysis)
 
 # Machine Learning
 - [ Awesome Machine Learning ](https://github.com/javadroider/awesome-machine-learning)
