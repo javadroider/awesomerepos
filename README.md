@@ -5,6 +5,7 @@
 - [ Aadhar Dataset Analysis ](https://github.com/javadroider/AADHAR-Dataset-Analysis)
 - [ eBay Online Auctions ](http://www.modelingonlineauctions.com/datasets)
 - [ SFPD Crime Incident Reporting system ](https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry)
+- [ Baby Names ](https://github.com/javadroider/spark-course)
 
 
 # Apache Spark
@@ -25,6 +26,7 @@
 - [ Learning to write Spark examples ](https://github.com/javadroider/learning-spark-1)
 - [ Spark Data Frame Example ](https://github.com/javadroider/sparkdataframeexample)
 - [ Introduction to DataFrames ](https://mapr.com/blog/using-apache-spark-dataframes-processing-tabular-data/)
+- [ Spark Course ](https://github.com/javadroider/spark-course)
 
 # Machine Learning
 - [ Awesome Machine Learning ](https://github.com/javadroider/awesome-machine-learning)
