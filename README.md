@@ -27,6 +27,8 @@
 - [ Spark Data Frame Example ](https://github.com/javadroider/sparkdataframeexample)
 - [ Introduction to DataFrames ](https://mapr.com/blog/using-apache-spark-dataframes-processing-tabular-data/)
 - [ Spark Course ](https://github.com/javadroider/spark-course)
+- [ Twitter sentiment Analysis ](https://github.com/javadroider/SparkTwitterStreamAnalysis)
+- [ Quora - Twitter sentiment Analysis ](https://www.quora.com/Has-anyone-done-a-Twitter-sentiment-analysis-using-Apache-Spark)
 
 # Machine Learning
 - [ Awesome Machine Learning ](https://github.com/javadroider/awesome-machine-learning)
