@@ -6,6 +6,7 @@
 - [ eBay Online Auctions ](http://www.modelingonlineauctions.com/datasets)
 - [ SFPD Crime Incident Reporting system ](https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry)
 - [ Baby Names ](https://github.com/javadroider/spark-course)
+- [ Awesome datasets ](https://github.com/javadroider/awesome-public-datasets)
 
 
 # Apache Spark
